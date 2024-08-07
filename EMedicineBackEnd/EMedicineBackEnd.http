@@ -1,0 +1,6 @@
+@EMedicineBackEnd_HostAddress = http://localhost:5116
+
+GET {{EMedicineBackEnd_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
